@@ -1,2 +1,2 @@
 # Keep-notes
-Keep notes application using HTML, CSS and JavaScript. In addition to local storage to store data in the browser.
+Keep notes application using HTML, CSS and JavaScript. The data will be stored in the local storage.
